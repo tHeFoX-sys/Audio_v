@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Audio_v:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Audio_v_jar</output-path>
-    <root id="archive" name="Audio_v.jar">
-      <element id="module-output" name="Audio_v" />
-    </root>
-  </artifact>
-</component>
